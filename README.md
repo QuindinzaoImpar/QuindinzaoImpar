@@ -1,9 +1,8 @@
-### 🖖 Hi, my name is João
+### 🖖 Hi, my name is João Victor Fernandes
 
-- 🚀 I work with FullStack
-- 💡 I'm in the continuous study of React, React Native, TypeScript, Node.js and their derived technologies
+- 🚀 I'm a future Full Stack Developer (and the best Full Stack Developer) from the Impar!
+- 📚 But now... I'm a Front-End Developer Jr from the Impar
 - 📘 My favorite lenguage is TypeScript
-- 📚 My codes and my work environment are very organized
 - 🖤 I love developing websites, apps and systems in general
 
 <br />
